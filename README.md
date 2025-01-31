@@ -18,8 +18,8 @@
 ### Simple Java REST API
 - Designed and implemented a Java-based REST API for user management, utilizing PUT and GET methods and testing with Postman to ensure functionality and scalability.
 
-# Predicting Consensus Patterns in Graphs 
+### Predicting Consensus Patterns in Graphs 
 - Achieved 90% accuracy in predicting consensus patterns using a Support Vector Regression model with a propagation kernel, successfully predicting the probability of a graph reaching consensus on node label 1 and demonstrating effectiveness in graph consensus analysis.
 
-# Predictive Modeling of Annual Income
+### Predictive Modeling of Annual Income
 - Achieved 74% accuracy, 73% ROC score, and 46% precision in predicting income levels by building a logistic regression model, enabling data-driven goal setting and performance improvements.
