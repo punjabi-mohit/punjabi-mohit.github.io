@@ -1,9 +1,6 @@
 title: Mohit Punjabi
+layout: default
 logo: /assets/img/headshot.png
 description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
-social:
-  gmail: punjabimohit99@gmail.com
-  github: "https://github.com/punjabi-mohit"
-  linkedin: "https://www.linkedin.com/in/mohit-punjabi/"
