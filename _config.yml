@@ -5,6 +5,5 @@ description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
 # social_links:
-github: "https://github.com/punjabi-mohit"
-linkedin: "https://www.linkedin.com/in/mohit-punjabi/"
-email: "mailto:punjabimohit99@gmail.com"
+include:
+  - _includes
